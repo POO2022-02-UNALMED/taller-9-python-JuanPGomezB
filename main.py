@@ -119,7 +119,7 @@ def divide(num):
 	operacion="division"
 	reset_pantalla=True
 	
-# Funcion igual o elResultado
+# Funcion igual o el Resultado
 	
 def elResulado():
 
